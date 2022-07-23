@@ -1,4 +1,4 @@
-##What is the difference between Git and Github?
+<h1>What is the difference between Git and Github?</h1>
 
 **Git** is a version control system to manage and keep track of the source code history. 
 
