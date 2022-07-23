@@ -12,4 +12,4 @@
 ![](https://www.wikihow.com/images/thumb/b/b0/Create-an-Account-on-GitHub-Step-3.jpg/v4-460px-Create-an-Account-on-GitHub-Step-3.jpg.webp)
 
 Welcome to Github!
-Verify your email addresses and add a secondary if you wish to!
+Verify your email addresses and add a secondary(if you wish to)!
